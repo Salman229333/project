@@ -1,1 +1,6 @@
-[My Web Live](https://salman2293334.github.io/My-web/)
+# Ku soo dhawoow Websaytkeenna
+
+[Booqo Bogga Hore](index.html)  
+[Booqo Booking](booking.html)  
+[Booqo Gallery](gallery.html)  
+[Booqo Nagu Saabsan](about.html)
