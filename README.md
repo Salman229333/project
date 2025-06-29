@@ -1,1 +1,1 @@
-# project
+[Boqo Websaytkayga](https://example.com)
